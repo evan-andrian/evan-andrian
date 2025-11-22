@@ -1,7 +1,7 @@
 ## Hello, My Name is Yevi.
 My Job is **Student** at DongSeoul University.
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder GIF" width="440" height="auto">
+<!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder GIF" width="440" height="auto"> -->
 
 **Contact**<br>
 Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
@@ -21,7 +21,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 
 ---
 
-<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeviDev&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=pie"/>
+<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-andrian&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=pie"/>
 
 **Tech Stack** 🛠
 
@@ -55,16 +55,18 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 - **SNS** 🌐 <br>
 
 <a href="https://www.facebook.com/profile.php?id=100011956212947">
-  <img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" height="auto"></a>
+  <img align="left" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" height="auto">
+</a>
 <a href="https://www.instagram.com/jjun._.221/?next=%2F">
   <img align="left" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" height="auto">
 </a>
-<a href="https://github.com/yeviDev">
+<a href="https://github.com/evan-andrian">
   <img align="left" width="10%" height="auto" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 </a>
 
-<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=yeviDev&show_icons=true&theme=dracula&border_radius=5"/><br><br><br><br><br><br>
-<img align="right" width="60%" height="auto" src="https://github-profile-trophy.vercel.app/?username=yeviDev&theme=dracula&row=2&column=4"/><br><br><br><br>
+<br>
+<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=evan-andrian&show_icons=true&theme=dracula&border_radius=5"/>
+<br><br><br>
 
 - **Education** 🎓 <br>
   - 성일정보고등학교 <img width="15" height="15" src="https://iam-organization-r.akamaized.net/logo-image/18835/UHkKjj94E5Xp58AR.png">
@@ -80,10 +82,4 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 
 ---
 
-<p align="center">
-
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJunx&count_bg=%233DDC84&title_bg=%23808080&icon=android.svg&icon_color=%233DDC84&title=hits&edge_flat=false)](https://hits.seeyoufarm.com">
-
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeviDev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=evan-andrian)](https://git.io/streak-stats)
