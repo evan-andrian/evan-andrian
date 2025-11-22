@@ -12,8 +12,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 ---
 **Study-ing** 👨🏻‍💻
 - **Front-End** 🖥️ <br>
-![Bootstrap](https://img.shields.io/badge/BootStrap-%238511FA?style=flat_square&logo=bootstrap&logoColor=white)
-<!--![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)-->
+![React](https://img.shields.io/badge/React-000000?style=flat_square&logo=react&logoColor=61DAFB)
 
 - **Mobile** 📱 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
@@ -36,7 +35,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat_square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative-000000?style=flat_square&logo=react&logoColor=61DAFB)
+<!--![ReactNative](https://img.shields.io/badge/ReactNative-000000?style=flat_square&logo=react&logoColor=61DAFB)-->
 
 - **Dev-Ops** 🚧 <br>
 ![FireStore](https://img.shields.io/badge/-FireStore-FFCA28?style=flat&logo=firebase&logoColor=white)
