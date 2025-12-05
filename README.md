@@ -20,7 +20,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 
 ---
 
-<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-andrian&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=pie"/>
+<!-- <img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-andrian&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&include_all_commits=true&layout=pie"/> -->
 
 **Tech Stack** 🛠
 
@@ -63,17 +63,17 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
   <img align="left" width="10%" height="auto" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 </a>
 
-<br>
-<img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=evan-andrian&show_icons=true&theme=dracula&border_radius=5"/>
-<br><br><br>
+<br><br><br><br>
+
+<!-- <img align="right" width="40%" height="auto" src="https://github-readme-stats.vercel.app/api?username=evan-andrian&show_icons=true&theme=dracula&border_radius=5"/> -->
 
 - **Education** 🎓 <br>
-  - 성일정보고등학교 <img width="15" height="15" src="https://iam-organization-r.akamaized.net/logo-image/18835/UHkKjj94E5Xp58AR.png">
+  - 성일정보고등학교 <img width="20" height="20" padding="0 15" src="https://iam-organization-r.akamaized.net/logo-image/18835/UHkKjj94E5Xp58AR.png">
     - 전공 : 소프트웨어개발과💻
     - 분류 : 사립학교, 특성화고
     - 여부 : 졸업
       
-  - 동서울대학교 <img width="15" height="15" src="https://www.du.ac.kr/resources/AD/main/img/sub02/img_symbol0101.png">
+  - 동서울대학교 <img width="20" height="20" src="https://www.du.ac.kr/resources/AD/main/img/sub02/img_symbol0101.png">
     - 전공 : 컴퓨터소프트웨어학과💻
     - 분류 : 사립대학, 전문대학 (2/3/4년제)
     - 여부 : 재학
