@@ -1,5 +1,5 @@
-## Hello, My Name is Evan(young-jun-kim)
-My Job is **Student** at DongSeoul University and Korean Solider.
+## Hello, My Name is Evan (young-jun-kim)
+My Job is **Student** at DongSeoul University and **Korean Solider**.
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coder GIF" width="440" height="auto"> -->
 
@@ -35,7 +35,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat_square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat_square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat_square&logo=android&logoColor=white)
-<!--![ReactNative](https://img.shields.io/badge/ReactNative-000000?style=flat_square&logo=react&logoColor=61DAFB)-->
+![ReactNative](https://img.shields.io/badge/ReactNative-000000?style=flat_square&logo=react&logoColor=61DAFB) 
 
 - **Dev-Ops** 🚧 <br>
 ![FireStore](https://img.shields.io/badge/-FireStore-FFCA28?style=flat&logo=firebase&logoColor=white)
@@ -45,7 +45,7 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
 
 - **Tools** 🔧 <br>
-![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logo=visualstudiocode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0078d7?style=flat_square&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-669933?style=flat_square&logo=androidstudio&logoColor=white)
 ![Intellij](https://img.shields.io/badge/-Intellij-A75BA3?style=flat_square&logo=intellij-idea&logoColor=white)
 
@@ -73,12 +73,25 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
     - 분류 : 사립학교, 특성화고
     - 여부 : 졸업
       
-  - 동서울대학교 <img width="20" height="20" src="https://www.du.ac.kr/resources/AD/main/img/sub02/img_symbol0101.png">
+  - 동서울대학교 <img width="15" height="15" src="https://www.du.ac.kr/resources/AD/main/img/sub02/img_symbol0101.png">
     - 전공 : 컴퓨터소프트웨어학과💻
     - 분류 : 사립대학, 전문대학 (2/3/4년제)
-    - 여부 : 재학
+    - 여부 : 휴학
 <br>
 
----
+- **Military** <img width="15" height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrYizXBV3WLslC5b_z8M2JPk5rtikkok4zQ&s"> <br>
+  - 육군 논산훈련소 27연대 <img width="15" height="15" src="https://i.namu.wiki/i/jXUNS_sunHz8ee6njqQ8jvHVTR4SRjiI15NOReVMD3UFxnkymodV5BP7lsP06zEotMbVQypMuATockCAFSAcrw.svg">
+    - 복무기간 : 2025.03.04 ~ 2025.04.10
+    - 분류 : 훈련소
+      
+  - 육군 정보통신학교 <img width="15" height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDVIce1s7Gnv8bZZyx3hSwdLMy-moUDrDCQ&s">
+    - 복무기간 : 2025.04.11 ~ 2025.04.17
+    - 분류 : 후반기 교육
+      
+  - 육군 제25보병사단 <img width="15" height="15" src="https://i.namu.wiki/i/lj_gFemiCcDLbvad47LIyt4VeWkRT8jZk4hM_-BRpMyrHqNqyOH-5kdB5CK1ECpkfE1oFHBPpfou7k5Vtd7vz7Qk7-OGqZp8eOZFILDW34nEwGKSUzYdk4jZUInbhJLrOKr2ieYEas_mZwvMZzs6hg.svg">
+    - 복무기간 : 2025.04.17 ~ 2026.09.03
+    - 특기 : 175.101
+    - 직책 : 체계설치병(군수계원 겸직)
+    - 분류 : 자대
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=evan-andrian)](https://git.io/streak-stats)
+---
