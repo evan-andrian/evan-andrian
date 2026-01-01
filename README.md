@@ -51,6 +51,14 @@ Email📧 : [yevi241011@gmail.com](mailto:yevi241011@gmail.com)
 
 ---
 
+- **License** <img width="15" height="15" src="https://cdn-icons-png.flaticon.com/512/5741/5741948.png"> <br>
+  - 컴퓨터 자격증
+    - SW개발_L3_22V2
+      - 취득날짜 : 2022.12.29
+    - ITQ 한글엑셀 <img width="15" height="15" src="https://i.namu.wiki/i/lEj9ltajlVwYnx_LHdSuYyC4TDotycXD0c1yt0uBtJD4BivRBYpjIsSKtumnf-SZ-nPozFn-VcmxQHAh3brh7jPk_sbReoZ_w1QC_ifRRuUJay2rB-m1k_PYezyrU6Kky3uF_ztA706ylfD2AQJ56w.svg">
+      - 취득날짜 : 2021.07.01
+---
+
 - **SNS** 🌐 <br>
 
 <a href="https://www.facebook.com/profile.php?id=100011956212947">
